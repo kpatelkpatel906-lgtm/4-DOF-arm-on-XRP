@@ -6,7 +6,9 @@ About - This project was created during Hack Club's Macondo program. It uses the
 
 Helpful links
 XRP Code Editor - https://xrpcode.wpi.edu
+
 OnShape CAD - https://cad.onshape.com/documents/94cab965c461ea71e610c3a8/w/6c71823ed011eed3911d8ce7/e/49729e24d86f0ea579a7455d
+
 Orb Game Piece used to test claw (called "Rubble") - https://www.printables.com/model/1251185-2025-xrp-game-orbit-odyssey/files 
 
 More Information such as assembly information will be coming soon
