@@ -31,4 +31,7 @@ Instructions
 16) Repeat step 6 for the final servo
 17) Attach grabber arm to horn of this servo using 2 included philips head screws.
 
-    Electronics instructions coming soon
+Electronics -
+Follow the diagram, servo motor signal wires go to any of the 4 signal wires on the board for the way that you have configured as each motor
+<img width="926" height="815" alt="Screenshot 2026-07-03 at 11 31 33 PM" src="https://github.com/user-attachments/assets/10cfb9b1-1c63-4275-83b5-e75fcf03203b" />
+
