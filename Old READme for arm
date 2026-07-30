@@ -1,4 +1,4 @@
- 4 Degrees of Freedom Robotic Arm on XRP robot base
+4 Degrees of Freedom Robotic Arm on XRP robot base
 
 <img width="3024" height="4032" alt="IMG_4009" src="https://github.com/user-attachments/assets/6a197dff-fd74-40cf-8262-9f9b36cb6154" />
 
@@ -34,4 +34,3 @@ Instructions
 Electronics -
 Follow the diagram, servo motor signal wires go to any of the 4 signal wires on the board for the way that you have configured as each motor
 <img width="926" height="815" alt="Screenshot 2026-07-03 at 11 31 33 PM" src="https://github.com/user-attachments/assets/10cfb9b1-1c63-4275-83b5-e75fcf03203b" />
-
