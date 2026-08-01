@@ -7,7 +7,8 @@ About - This project was created during Hack Club's Macondo program. It uses a c
 Helpful links
 XRP Code Editor - https://xrpcode.wpi.edu
 
-OnShape CAD - 
+OnShape CAD (full V2) (DISCLAIMER - the CAD model for the XRP wheel and the motor were not created by me)- https://cad.onshape.com/documents/8c0d30bc27f93aca9cecb3c5/w/34c3822477bc31986b632ba4/e/a49cac85e221fc7f59d26fd0
+OnShape CAD (V1/V1.5 Claw) - https://cad.onshape.com/documents/94cab965c461ea71e610c3a8/w/6c71823ed011eed3911d8ce7/e/d39e55db9d4270f620e11d48
 
 Orb Game Piece used to test claw (called "Rubble") - https://www.printables.com/model/1251185-2025-xrp-game-orbit-odyssey/files 
 
