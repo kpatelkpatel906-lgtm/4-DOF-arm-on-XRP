@@ -1,5 +1,7 @@
 (V2) 4 Degrees of Freedom Robotic Arm on Custom robot base powered by XRP
 
+<img width="811" height="466" alt="Screenshot 2026-07-31 at 10 17 01 PM" src="https://github.com/user-attachments/assets/80adf379-1dde-40a7-ba33-98f8f8a776d5" />
+
 About - This project was created during Hack Club's Macondo program. It uses a custom made chassis and adds onto it by using 4 MG995 servo motors and various different 3d printed objects to make a 4 degree of freedom robotic arm ontop of the robot. Throughout the next couple months, there will be many updates/upgrades to the software used to control the robot and will likely use a bluetooth webtool that is unique (but will first start using something like pestol.ink) and there will be updates to the hardware used (ex: custom board, new grabbing mechanisms, different chassis look, etc.)
 
 Helpful links
