@@ -25,8 +25,19 @@ Instructions for V2 -
 9) Move these batteries to the area that is also occupied by the barrel-jack connector
 10) Then attach the servo platform to the base using 4 M3 25mm socketheads
 11) Attach the power rails of a breadboard to either side of the longer part of this servo platform
-    ARM instructions coming soon - very similar to that of V1 with some minor QOL improvements
-
+12) Attach a MG995 motor using 4 M3 4mm screws
+13) Attach Servo horn (4 point) using included screw (all other servos need the circular horn)
+14) Attach Joint 1 to the the servo horn using included screws where the slot for the motor wires should be facing the front (where the back is the numbers 1208)
+15) Press another MG995 into the the square area with motor wire protect on the side of the slot
+16) Replace the back plate on the servo for arm support bracket and do so for one more MG995
+17) Slide the second joint by first sliding the bracket onto the support bracket and then orient it on the face of the servo horn, secure using included screws
+18) Secure the second MG995 motor using 4 M3 6mm screws
+19) Secure the third MG995 motor using 4 M3 4mm screws
+20) Secure the claw onto the third MG995 by using the same method as the second joint
+21) Insert the final motor into the claw shroud in a parallel manner to the arm and secure using 4 M3 4mm screws
+22) Attach the two gears pointing forward and secure the one powered using included screws and the one that is static by placing it on the "pin" and then using the gear retainer and 1 M3 4mm screw to retain
+23) Attach the claw grabbers were ends should be pointing towards each other and secure to the gears using 4 M3 6mm screws
+    I think I missed a lot of steps in the in betweens (WORK IN PROGRESS)
 
 
 Additional Electronics -
