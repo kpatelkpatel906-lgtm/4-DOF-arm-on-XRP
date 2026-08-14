@@ -69,3 +69,6 @@ Follow the diagram, servo motor signal wires go to any of the 4 signal wires on 
 Additionally, this diagram doesn't take into account the use of a breadboard; distinct positive and negative lines have been made for a little ease of understanding.
 <img width="636" height="365" alt="Screenshot 2026-07-29 at 11 29 17 PM" src="https://github.com/user-attachments/assets/750d6db5-0526-4979-a061-6bb8d70edd1c" />
 
+videos 
+part 1 - 
+part 2 -
