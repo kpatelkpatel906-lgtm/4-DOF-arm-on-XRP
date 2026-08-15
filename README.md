@@ -70,5 +70,5 @@ Additionally, this diagram doesn't take into account the use of a breadboard; di
 <img width="636" height="365" alt="Screenshot 2026-07-29 at 11 29 17 PM" src="https://github.com/user-attachments/assets/750d6db5-0526-4979-a061-6bb8d70edd1c" />
 
 videos 
-part 1 - 
-part 2 -
+part 1 - https://youtu.be/mma-man9Brw
+part 2 - https://youtube.com/shorts/A3m_HA8ld8k?feature=share
