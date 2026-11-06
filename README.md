@@ -75,3 +75,7 @@ Additionally, this diagram doesn't take into account the use of a breadboard; di
 videos 
 part 1 - https://youtu.be/mma-man9Brw
 part 2 - https://youtube.com/shorts/A3m_HA8ld8k?feature=share
+
+Flashing Board - The XRP Board should already be flashed out of the box
+Known issues - The performance on the AA batteries is poor when there is high current draw; therefore, there might be slight moments of brownouts, one might be able to fix this using capacitors in parallel with the main battery.
+BOM- Please refer to the Bill of Materials page for this information
